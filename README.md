@@ -24,7 +24,7 @@ A platform where you can find information about your favourite team
 
 ## 🚀 Getting started
 
-This project is deployed at https://share-book-client.herokuapp.com
+This project is deployed at https://sports-db-007.netlify.app/
 
 Guide for local deployment -
 
